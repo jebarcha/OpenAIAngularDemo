@@ -58,7 +58,7 @@ export const routes: Routes = [
           ),
         data: {
           icon: 'fa-solid fa-podcast',
-          title: 'Texto to audio',
+          title: 'Text to audio',
           description: 'Convert text to audio',
         },
       },
